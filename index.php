@@ -62,7 +62,7 @@
             <li>Basic</li>
           </ol>
           <h1>Welcome to Raj's Containarized Application! - Hello Docker!! </h1>
-          <p>The purpose of this application is to demonstrate several interesting features about OpenShift. We hope you enjoy it!</p>
+          <p>The purpose of this application is to demonstrate several interesting features about conatiners. I hope you enjoy it!</p>
         </div>
       </div>
       <div class="row">
