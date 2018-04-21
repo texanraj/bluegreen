@@ -67,7 +67,7 @@
       </div>
       <div class="row">
         <div class="col-md-6 col-md-offset-3">
-          <h2>Application Information</h2>
+          <h2>Blue Green Deployment Container Information</h2>
           <table class="table table-striped table-bordered table-hover">
             <thead>
               <tr>
@@ -76,6 +76,10 @@
               <tr>
             </thead>
             <tbody>
+              <tr>
+                <td>Pod IP</td>
+                <td><?php echo $_SERVER['SERVER_NAME'] ?></td>
+              </tr>
               <tr>
                 <td>Pod IP</td>
                 <td><?php echo $_SERVER['SERVER_ADDR'] ?></td>
