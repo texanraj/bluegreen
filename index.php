@@ -4,7 +4,7 @@
 <html>
 <!--<![endif]-->
   <head>
-    <title>Basic - PatternFly</title>
+    <title>Welcome to PatternFly!</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="../dist/img/favicon.ico">
     <!-- iPad retina icon -->
@@ -76,10 +76,6 @@
               <tr>
             </thead>
             <tbody>
-              <tr>
-                <td>Pod Name</td>
-                <td><?php echo $_SERVER['SERVER_NAME'] ?></td>
-              </tr>
               <tr>
                 <td>Pod IP</td>
                 <td><?php echo $_SERVER['SERVER_ADDR'] ?></td>
